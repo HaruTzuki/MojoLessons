@@ -17,3 +17,22 @@ I have covered:
 ### 3.11. Keyword Arguments
 ### 3.12. Default Value
 
+## 4. Constants and Variables
+### 4.1. Constants
+### 4.2. Variables
+### 4.3. Alias
+### 4.4. Undecleared Variables
+### 4.5. Variable Scoping
+### 4.6. Non-standard identifiers
+
+## 5. Types
+### 5.1. Bool
+### 5.2. Int
+### 5.3. IntLiteral
+### 5.4. Strings
+### 5.5. StringLiteral
+### 5.6. FloatLiteral
+### 5.7. Float16
+### 5.8. Float32
+### 5.9. Float64 
+
